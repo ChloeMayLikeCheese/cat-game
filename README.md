@@ -1,1 +1,1 @@
-# cat-game
+# cat-fruits
